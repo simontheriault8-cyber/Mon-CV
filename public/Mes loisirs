@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mes loisirs</title>
+</head>
+
+<body>
+    <h1>Mes loisirs</h1>
+    <p>
+        Voici une liste de mes différents loisirs.
+    </p>
+    <ul>
+        <li>L'escalade</li>
+        <li>Coder</li>
+        <li>Gamer</li>
+        <li>Voyager</li>
+        <li>Lire</li>
+    </ul>
+</body>
+
+</html>
